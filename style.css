@@ -18,8 +18,13 @@
     width: 60%;
     margin-left: 20%;
 }
+.link{
+    text-decoration: none;
+    color: black;
+}
 .item{
     font-weight: 550;
+    text-decoration: none;
 }
 .icons-container{
     display: flex;
@@ -146,7 +151,7 @@
         display: none;
     }
     .box-container{
-        width: 300px;
+        width: 260px;
         margin: 0px auto;
     }
     .head{
